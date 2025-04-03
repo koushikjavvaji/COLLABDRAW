@@ -21,7 +21,7 @@ export const FooterSection = () => {
           <div className="col-span-full xl:col-span-2" data-aos="fade-right">
             <Link href="#" className="flex font-bold items-center">
               <PencilRuler className="w-9 h-9 mr-2 bg-gradient-to-tr from-primary via-primary/70 to-primary rounded-lg border border-secondary" />
-              <h3 className="text-2xl">ColloboDraw</h3>
+              <h3 className="text-2xl">COLLABDRAW</h3>
             </Link>
           </div>
 
